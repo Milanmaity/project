@@ -1,0 +1,13 @@
+
+public class UserMainCode {
+    
+    public static Integer addUnique(Integer[] numbers) {
+    	Arrays.s
+    Integer sum=0;
+    	
+    	
+		return sum;
+
+    }
+    
+}

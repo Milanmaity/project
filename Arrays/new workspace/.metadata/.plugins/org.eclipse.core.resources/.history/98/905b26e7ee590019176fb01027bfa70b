@@ -1,0 +1,22 @@
+
+public class UserMainCode {
+    
+    public static Integer addUnique(Integer[] numbers) {
+    	Integer[] temp=new Integer[numbers.length];
+    	int count=0;
+    	for(int i=0;i<numbers.length;i++)
+    	{
+    		for(int j=i+1;j<numbers.length-1;j++)
+    		{
+    			if(numbers[i]!=numbers[j])
+    			{
+    				count++;
+    			}
+    		}
+    	}
+    	
+		return temp[k];
+
+    }
+    
+}

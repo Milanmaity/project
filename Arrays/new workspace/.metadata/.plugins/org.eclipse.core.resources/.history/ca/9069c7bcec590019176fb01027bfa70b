@@ -1,0 +1,17 @@
+
+public class UserMainCode {
+    
+    public static Integer addUnique(Integer[] numbers) {
+    	int 
+    	for(int i=0;i<numbers.length;i++)
+    	{
+    		for(int j=i+1;j<n;j++)
+    		{
+    			
+    		}
+    	}
+		return null;
+
+    }
+    
+}
